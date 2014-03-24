@@ -22,7 +22,7 @@ define('DB_NAME', 'zionwp');
 define('DB_USER', 'admin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'TEGVaqb4AnYGyfG8');
+define('DB_PASSWORD', 'rLNtenrsysxdvfcz');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
