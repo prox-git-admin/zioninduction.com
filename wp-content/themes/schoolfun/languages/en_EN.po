@@ -1,0 +1,1358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Schoolfun 1.0\n"
+"POT-Creation-Date: 2014-02-01 10:01+0800\n"
+"PO-Revision-Date: 2014-02-01 10:01+0800\n"
+"Last-Translator: y <y@yahoo.com>\n"
+"Language-Team: cubicthemes.com <hello@cubicthemes.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_x;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wp36\\wp-content\\themes\\schoolfun\\\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp36\\wp-content\\themes"
+"\\schoolfun\n"
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/404.php:7
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/404.php:8
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/404.php:12
+msgid "Most Used Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:9
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:345
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:11
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:347
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:11
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:347
+msgid "F Y"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:13
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:349
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:13
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:349
+msgid "Y"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:15
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:351
+msgid "Archives"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:38
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/blog-template.php:40
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/category.php:27
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/home.php:24
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:26
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/tag.php:27
+msgid "1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:38
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/blog-template.php:40
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/category.php:27
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/home.php:24
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:26
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/tag.php:27
+msgid " % "
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:54
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/blog-template.php:56
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/category.php:43
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/home.php:41
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:46
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/tag.php:43
+msgid "Next Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/archive.php:55
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/blog-template.php:57
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/category.php:44
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/home.php:42
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:47
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/tag.php:44
+msgid "Previous Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/category.php:7
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:323
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:26
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:53
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:56
+msgid "Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:58
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:59
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:60
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:63
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:65
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/comments.php:66
+msgid "Post Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/event-month.php:80
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/event-year.php:94
+msgid "View Detail"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/event-template.php:135
+msgid "This Year"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/event-template.php:139
+msgid "Change Year :"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:47
+msgid "Main Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:48
+msgid "Header Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:49
+msgid "Slider Left Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:50
+msgid "Slider Right Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:51
+msgid "Tab Bottom Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:52
+msgid "Footer Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:64
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:101
+msgid "Pingback:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:101
+msgid "(Edit)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:336
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:382
+msgid "Page not found"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:390
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:412
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:413
+msgid "This is the general setting for your theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:417
+msgid "Colour Scheme"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:418
+msgid "Select the colour scheme for your theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:424
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:425
+msgid ""
+"A favicon is <strong>16x16</strong> pixel icon that represents your site; "
+"Browse image with .ico or .png that you want to use as the favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:430
+msgid "Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:438
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:444
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:439
+msgid ""
+"An Apple Touch Icon is <strong>129x129</strong> pixel icon that represents "
+"your site; Browse image with .png that you want to use"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:455
+msgid "Logo URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:456
+msgid ""
+"Browse your image for your image logo and the size of your image must be "
+"<strong>290x102</strong> pixel"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:462
+msgid "Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:470
+msgid "Logo (Retina) URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:471
+msgid ""
+"Browse image for your retina image logo and the size must be "
+"<strong>580x204</strong> pixel. This logo will appear on retina display or "
+"HiDPI gadget."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:476
+msgid "Logo (Retina)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:487
+msgid "Display Search Form"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:492
+msgid "Slogan on header"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:497
+msgid "Registration Button Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:502
+msgid "Registration Button URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:512
+msgid "Sidebar Position"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:517
+msgid "Display Mobile Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:523
+msgid "Off Canvas Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:524
+msgid ""
+"Off Canvas Navigation like Facebook or Google. You need to activate the "
+"mobile version to use it."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:535
+msgid "Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:536
+msgid "This is setting for Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:541
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:542
+msgid "Homepage Intro Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:546
+msgid "Homepage Intro Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:547
+msgid ""
+"Only &lt;strong&gt;, &lt;em&gt;, &lt;u&gt; and &lt;a&gt; HTML code allowed."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:551
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:552
+msgid "Homepage Intro URL Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:556
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:557
+msgid "Homepage Intro URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:562
+msgid "Homepage Intro Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:563
+msgid ""
+"Browse image used for Homepage Intro image. Recommended image size is "
+"<strong>726x400</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:567
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:578
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:583
+msgid "Banner"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:579
+msgid "Image width no more than 550 pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:589
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:590
+msgid "URL Banner"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:597
+msgid "Welcome Intro Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:602
+msgid "Welcome Intro Position"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:607
+msgid "Welcome Intro Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:608
+msgid "HTML code allowed"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:612
+msgid "Welcome Intro Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:617
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:618
+msgid "Welcome Intro URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:623
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:628
+msgid "Welcome Intro Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:624
+msgid ""
+"Browse image used for Homepage Intro image. Recommended image size is "
+"<strong>322x433</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:635
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:640
+msgid "Welcome Intro Image (Retina)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:636
+msgid ""
+"Browse image used for Homepage Intro image. Recommended image size is "
+"<strong>644x866</strong> pixel. This image will appear on retina display or "
+"HiDPI gadget."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:652
+msgid "Slideshow Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:653
+msgid ""
+"There are 5 images for slideshow. Recommended size is <strong>2000x620</"
+"strong> pixel"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:657
+msgid "Type of Slideshow Tab 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:662
+msgid "Tabs 1 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:667
+msgid "Tabs 1 Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:672
+msgid "Slide 1 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:677
+msgid "Slide 1 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:683
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:688
+msgid "Slide 1 Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:684
+msgid ""
+"Browse image used for Background 1. Recommended image size is "
+"<strong>2000x620</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:694
+msgid "Slide 1 URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:699
+msgid "Slide 1 Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:708
+msgid "Type of Slideshow Tab 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:713
+msgid "Tabs 2 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:718
+msgid "Tabs 2 Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:723
+msgid "Slide 2 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:728
+msgid "Slide 2 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:734
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:739
+msgid "Slide 2 Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:735
+msgid ""
+"Browse image used for Background 2. Recommended image size is "
+"<strong>2000x620</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:745
+msgid "Slide 2 URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:750
+msgid "Slide 2 Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:759
+msgid "Type of Slideshow Tab 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:764
+msgid "Tabs 3 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:769
+msgid "Tabs 3 Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:774
+msgid "Slide 3 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:779
+msgid "Slide 3 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:785
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:790
+msgid "Slide 3 Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:786
+msgid ""
+"Browse image used for Background 3. Recommended image size is "
+"<strong>2000x620</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:796
+msgid "Slide 3 URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:801
+msgid "Slide 3 Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:810
+msgid "Type of Slideshow Tab 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:815
+msgid "Tabs 4 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:820
+msgid "Tabs 4 Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:825
+msgid "Slide 4 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:830
+msgid "Slide 4 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:836
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:841
+msgid "Slide 4 Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:837
+msgid ""
+"Browse image used for Background 4. Recommended image size is "
+"<strong>2000x620</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:847
+msgid "Slide 4 URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:852
+msgid "Slide 4 Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:861
+msgid "Type of Slideshow Tab 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:866
+msgid "Tabs 5 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:871
+msgid "Tabs 5 Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:876
+msgid "Slide 5 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:881
+msgid "Slide 5 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:887
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:892
+msgid "Slide 5 Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:888
+msgid ""
+"Browse image used for Background 5. Recommended image size is "
+"<strong>2000x620</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:898
+msgid "Slide 5 URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:903
+msgid "Slide 5 Text URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:915
+msgid "Quick Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:916
+msgid "This is Setting for Quick Navigation on the Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:921
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:926
+msgid "Sidebar Icon 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:922
+msgid ""
+"Browse image used for icon 1 and the size of your image must be "
+"<strong>92x92</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:932
+msgid "Sidebar Title 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:937
+msgid "Sidebar Text 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:942
+msgid "Sidebar URL 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:951
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:956
+msgid "Sidebar Icon 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:952
+msgid ""
+"Browse image used for icon 2 and the size of your image must be "
+"<strong>92x92</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:962
+msgid "Sidebar Title 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:967
+msgid "Sidebar Text 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:972
+msgid "Sidebar URL 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:980
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:985
+msgid "Sidebar Icon 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:981
+msgid ""
+"Browse image used for icon 3 and the size of your image must be "
+"<strong>92x92</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:991
+msgid "Sidebar Title 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:996
+msgid "Sidebar Text 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1001
+msgid "Sidebar URL 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1010
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1015
+msgid "Sidebar Icon 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1011
+msgid ""
+"Browse image used for icon 4 and the size of your image must be "
+"<strong>92x92</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1021
+msgid "Sidebar Title 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1026
+msgid "Sidebar Text 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1031
+msgid "Sidebar URL 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1039
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1044
+msgid "Sidebar Icon 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1040
+msgid ""
+"Browse image used for icon 5 and the size of your image must be "
+"<strong>92x92</strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1050
+msgid "Sidebar Title 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1055
+msgid "Sidebar Text 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1060
+msgid "Sidebar URL 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1070
+msgid "Bottom Tabs"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1071
+msgid "This is setting to show Tabs in the bottom of all page"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1075
+msgid "Type of Tab 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1080
+msgid "Tab Bottom 1 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1085
+msgid "Tab Bottom 1 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1093
+msgid "Type of Tab 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1098
+msgid "Tab Bottom 2 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1103
+msgid "Tab Bottom 2 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1111
+msgid "Type of Tab 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1116
+msgid "Tab Bottom 3 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1121
+msgid "Tab Bottom 3 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1129
+msgid "Type of Tab 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1134
+msgid "Tab Bottom 4 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1139
+msgid "Tab Bottom 4 Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1149
+msgid "Custom Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1150
+msgid "This is option for Custom Post (Team, Gallery and Testimonial)."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1154
+msgid "Testimonial order by"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1160
+msgid "Gallery order by"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1166
+msgid "Team order by"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1173
+msgid "Facebook Like in Blog Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1180
+msgid "Tweet in Blog Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1187
+msgid "Google +1 in Blog Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1201
+msgid "Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1202
+msgid "Footer area."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1206
+msgid "Footer Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1211
+msgid "Footer Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1220
+msgid "Copyright Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1225
+msgid "Text Contact on Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1226
+msgid "Text contact on Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1233
+msgid "Slogan on Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1239
+msgid "Background on Footer "
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1240
+msgid ""
+"Browse image used for footer image. Recommended image size <strong>2000x620</"
+"strong> pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1244
+msgid "Background on footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1251
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1256
+msgid "Logo Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1252
+msgid ""
+"Browse your image for your image logo and the size of your image must be "
+"<strong>170x43</strong> pixel"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1263
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1268
+msgid "Logo (Retina) Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1264
+msgid ""
+"Browse image for your retina image logo and the size must be <strong>340x86</"
+"strong> pixel. This logo will appear on retina display or HiDPI gadget."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1274
+msgid "Logo Footer URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1279
+msgid "Google Analytics Code"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1280
+msgid ""
+"You can paste your Google Analytics or other tracking code in this box. This "
+"will be automatically added to the footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1290
+msgid "Social Network"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1291
+msgid "This is the social network setting for your theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1295
+msgid "Facebook URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1300
+msgid "Twitter URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1305
+msgid "Linkedin URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1310
+msgid "Google+ URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1315
+msgid "Youtube URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1319
+msgid "Flickr URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1379
+msgid "error deleting image"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1408
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1434
+msgid "Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1435
+#, php-format
+msgid "To easily use the %s theme, you can use the menu below."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1547
+msgid "Upload"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions.php:1572
+msgid "Delete"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/header.php:13
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/home.php:32
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/search.php:37
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/single.php:23
+msgid "No Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/single.php:23
+msgid "Comment (1)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/single.php:23
+msgid "Comments (%)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/single.php:53
+msgid "Edit this post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:49
+msgid "Start Date"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:50
+msgid "End Date"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:52
+msgid "Start Time (hh:mm)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:53
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:57
+msgid "Use 24 hour format ( 21:00 = 09:00 pm )"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:56
+msgid "End Time (hh:mm)"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:59
+msgid "Location"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:60
+msgid "Sticky Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/event.php:60
+msgid "Check this to show this event as slideshow"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:49
+msgid "Position:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:50
+msgid "Twitter URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:51
+msgid "Linkedin URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:52
+msgid "Facebook URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:53
+msgid "Google Plus URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/team.php:54
+msgid "Email address:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/testimonial.php:46
+msgid "Company Name:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/custom-post/testimonial.php:47
+msgid "Website URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:4
+msgid "Homepage Left"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:6
+msgid "Homepage Left widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:13
+msgid "Homepage Middle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:15
+msgid "Homepage middle widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:22
+msgid "Homepage Right"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:24
+msgid "Homepage right widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:31
+msgid "Sidebar Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:33
+msgid "Sidebar pages widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:40
+msgid "Sidebar Blog Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:42
+msgid "Sidebar blog posts widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:49
+msgid "Footer Left"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:51
+msgid "Footer left widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:58
+msgid "Footer Middle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/init.php:60
+msgid "Footer middle widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:7
+msgid "Widget to show text and image."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:38
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:103
+msgid "Address:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:41
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:107
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:44
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:105
+msgid "Phone:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:95
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:295
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:395
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:466
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:571
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:646
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:770
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:932
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1423
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:97
+msgid "Image URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:102
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:109
+msgid "Google Map URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:111
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:404
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:573
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:786
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:955
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1432
+msgid "Text for Button:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:113
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:406
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:575
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:788
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:957
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1434
+msgid "Link goes to:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:132
+msgid "Widget to show latest Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:297
+msgid "Consumer Key:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:299
+msgid "Consumer Secret:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:301
+msgid "Access Token:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:303
+msgid "Access Token Secret:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:305
+msgid "Twitter Username:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:307
+msgid "\"Follow Us\" Button Text:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:309
+msgid "Number of Tweets:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:328
+msgid "Widget to show latest post with featured images."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:397
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:648
+msgid "Number of posts to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:423
+msgid "Widget to show photos from a Flickr ID."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:472
+msgid "Type:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:480
+msgid "Number of photo to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:488
+msgid "Sorting:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:507
+msgid "Widget to show random testimonial."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:594
+msgid "Widget to show latest partner."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:667
+msgid "Widget to show latest team\t."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:772
+msgid "Number of team to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:779
+msgid "Order by:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:806
+msgid "Widget to show latest gallery."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:934
+msgid "Display gallery:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:941
+msgid "Number of gallery to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:948
+msgid "Gallery type:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1043
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1144
+msgid "No Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1043
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1144
+msgid "1 Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1043
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1144
+msgid " % Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1121
+msgid "Rate"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1231
+msgid "Title Tabs 1:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1246
+msgid "Flickr ID Tabs 1:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1249
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1274
+msgid "Number of record to show:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1257
+msgid "Title Tabs 2:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1271
+msgid "Flickr ID Tabs 2:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1294
+msgid "Widget to show latest event."
+msgstr ""
+
+#: D:\xampp\htdocs\wp36\wp-content\themes\schoolfun/functions/widget/widget.php:1425
+msgid "Number of event to show:"
+msgstr ""

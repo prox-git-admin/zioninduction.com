@@ -1,0 +1,299 @@
+a, a:active, a:visited { color: #829612; outline:0; }
+a:hover { color: #586703; }
+#header-content #searchform .button {
+    background:#829612 url(images/icon-search.png) no-repeat 6px 5px;
+    background-size:16px 16px;
+}
+#nav {
+    background:#764200;
+}
+#button-registration {
+    border:1px solid #829612;
+    background-color:#94aa1a;
+    background-image: linear-gradient(top, #94aa1a, #829612);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: -o-linear-gradient(top, #94aa1a, #829612);
+}
+#button-registration:hover {
+    background:#829612;
+}
+#nav ul ul {
+    background:#764200;
+}
+#nav #nav-main li:hover ul li a:hover, #nav #nav-main li ul li a:hover {
+    background:#829612;
+}
+#panel-tabs {
+    background:#829612;
+}
+.tabs-container article {
+    background:#764200;
+}
+.button-more-slide, .button-more-slide:link, .button-more-slide:visited {
+    background-image: url(images/arrow-more.png), linear-gradient(top, #94aa1a, #829612);
+    background-image: url(images/arrow-more.png), -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: url(images/arrow-more.png), -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: url(images/arrow-more.png), -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: url(images/arrow-more.png), -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: url(images/arrow-more.png), -o-linear-gradient(top, #94aa1a, #829612);
+    background-repeat: no-repeat;
+    background-size:8px 11px, auto auto;
+    background-position:140px 11px, 0 0;
+}
+.button-more-slide:hover {
+    background:url(images/arrow-more.png), #244371;
+    background-repeat: no-repeat;
+    background-size:8px 11px, auto auto;
+    background-position:160px 11px, 0 0;
+}
+.slider-tabs {
+    background:#764200;
+}
+.slider-tabs.flexslider .flex-prev {
+    background:#829612 url(images/arrow-prev-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+.slider-tabs.flexslider .flex-next {
+    background:#829612 url(images/arrow-next-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+.nav-slider-left li a:hover, 
+.nav-slider-right li a:hover {
+    background:#829612;
+}
+#intro h1 {
+    color:#764200;
+}
+.more-intro:hover {
+    color:#829612;
+}
+#nav-sidebar li a:hover figure {
+    background:#829612;
+    box-shadow:0 0 0 4px #829612;
+}
+#nav-sidebar li a:hover .title-nav-sidebar {
+    color:#829612;
+}
+#breadcrumbs div a.icon-home {
+    background:#829612 url(images/icon-home.png) no-repeat 50% 8px;
+    background-size:17px 17px;
+}
+.last-breadcrumbs,
+#breadcrumbs div a:hover {
+    color:#829612;
+}
+#nav-content-bottom {
+    background:#829612;
+}
+#nav-sidebar-bottom li a:hover figure {
+    background:#829612;
+    box-shadow:0 0 0 2px #829612;
+}
+.nav-tabs-bottom li a:hover {
+    background:#829612;
+}
+.category-slider li a:hover {
+    background:#829612;
+}
+#slider-news .flex-prev {
+    background:#829612 url(images/arrow-prev-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+#slider-news .flex-next {
+    background:#829612 url(images/arrow-next-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+.news-container figure img {
+    border-top:3px solid #829612;
+}
+.news-container h2.title-news a:hover {
+    color:#829612;
+}
+.link-comment, .link-comment:link, .link-comment:visited {
+    background:#829612 url(images/icon-comment.png) no-repeat 10px 8px;
+    background-size:16px 17px;
+}
+#form-comment .button, .wpcf7-form .wpcf7-submit {
+    border:1px solid #829612;
+    background-color:#94aa1a;
+    background-image: linear-gradient(top, #94aa1a, #829612);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: -o-linear-gradient(top, #94aa1a, #829612);
+}
+#form-comment .button:hover, .wpcf7-form .wpcf7-submit:hover {
+    background:#829612;
+}
+#history-container {
+    background:url(images/green/line-history.png) repeat-y 30px 0;
+}
+.static-page h3.history-year {
+    background:#829612;
+}
+.history-moment header {
+    background:#829612;
+}
+.panel-slider-event {
+    background:#829612;
+}
+#slider-event .flex-prev {
+    background:#829612 url(images/arrow-prev-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+#slider-event .flex-next {
+    background:#829612 url(images/arrow-next-slide.png) no-repeat 50% 12px;
+    background-size:14px 18px;
+}
+#nav-event ul li {
+    background:#829612 url(images/sep-tabs.png) repeat-y 100% 0;
+}
+#form-year .button {
+    background:#829612;
+}
+.panel-event-info {
+    background:#829612;
+}
+.title-event-one a:hover {
+    color:#829612;
+}
+.event-container .panel-event-info {
+    background:#829612;
+}
+.static-page .event-container h4 a:hover {
+    color:#829612;
+}
+.button-detail:hover {
+    color:#829612;
+}
+#event-info .list-event-slider {
+    background:#829612;
+}
+#list-category-team li a {
+    border-left:3px solid #764200;
+}
+#list-team li a:hover strong {
+    color:#829612;
+}
+.list-gallery-category li a span {
+    background:#764200;
+}
+.link-category-gallery:hover strong {
+    color:#829612;
+}
+.sidebar-homepage .widget-title, #sidebar .widget-title {
+    background-color:#905306;
+    background-image: linear-gradient(top, #905306, #764200);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#905306), to(#764200));
+    background-image: -webkit-linear-gradient(top, #905306, #764200);
+    background-image: -moz-linear-gradient(top, #905306, #764200);
+    background-image: -ms-linear-gradient(top, #905306, #764200);
+    background-image: -o-linear-gradient(top, #905306, #764200);
+}
+#sidebar ul li a:hover {
+    color:#829612;
+}
+#sidebar ul.tabs-widget li a,
+.sidebar-homepage ul.tabs-widget li a,
+.sidebar-footer ul.tabs-widget li a {
+    background-color:#6e5137;
+    background-image: linear-gradient(top, #6e5137, #764200);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6e5137), to(#764200));
+    background-image: -webkit-linear-gradient(top, #6e5137, #764200);
+    background-image: -moz-linear-gradient(top, #6e5137, #764200);
+    background-image: -ms-linear-gradient(top, #6e5137, #764200);
+    background-image: -o-linear-gradient(top, #6e5137, #764200);
+}
+.sidebar-homepage .widget-container ul.news-sidebar h4 a:hover,
+#sidebar .widget-container ul.news-sidebar h4 a:hover,
+.sidebar-footer .widget-container ul.news-sidebar h4 a:hover {
+    color:#829612;
+}
+.sidebar-homepage .widget-container .event-content-widget h4 a:hover,
+#sidebar .widget-container .event-content-widget h4 a:hover,
+.sidebar-footer.widget-container .event-content-widget h4 a:hover {
+    color:#829612;
+}
+#sidebar #searchform #searchsubmit,
+.sidebar-homepage #searchform #searchsubmit,
+.sidebar-footer #searchform #searchsubmit {
+    border: 1px solid #829612;
+    background-color: #94aa1a;
+    background-image: linear-gradient(top, #94aa1a, #829612);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: -o-linear-gradient(top, #94aa1a, #829612);
+}
+#sidebar #searchform #searchsubmit:hover,
+.sidebar-homepage #searchform #searchsubmit:hover,
+.sidebar-footer #searchform #searchsubmit:hover {
+    background:#829612;
+}
+.sidebar-homepage .widget-container .flexslider .flex-prev,
+#sidebar .widget-container .flexslider .flex-prev,
+.sidebar-footer .widget-container .flexslider .flex-prev {
+    background:#829612 url(images/arrow-prev-slide.png) no-repeat 50% 9px;
+    background-size:12px 15px;
+}
+.sidebar-homepage .widget-container .flexslider .flex-next,
+#sidebar .widget-container .flexslider .flex-next,
+.sidebar-footer .widget-container .flexslider .flex-next {
+    background:#829612 url(images/arrow-next-slide.png) no-repeat 50% 9px;
+    background-size:12px 15px;
+}
+.sidebar-footer .widget-title {
+    border-bottom:3px solid #764200;
+}
+.sidebar-footer ul li a:hover {
+    color:#829612;
+}
+.sidebar-homepage .button-more, 
+#sidebar .button-more,
+.sidebar-footer .button-more {
+    border:1px solid #829612;
+    background-color:#94aa1a;
+    background-image: linear-gradient(top, #94aa1a, #829612);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: -o-linear-gradient(top, #94aa1a, #829612);
+}
+.sidebar-homepage .button-more:hover, 
+#sidebar .button-more:hover,
+.sidebar-footer .button-more:hover {
+    background:#829612;
+}
+.button, .button:link, .button:visited {
+    border:1px solid #829612;
+    background-color:#94aa1a;
+    background-image: linear-gradient(top, #94aa1a, #829612);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#94aa1a), to(#829612));
+    background-image: -webkit-linear-gradient(top, #94aa1a, #829612);
+    background-image: -moz-linear-gradient(top, #94aa1a, #829612);
+    background-image: -ms-linear-gradient(top, #94aa1a, #829612);
+    background-image: -o-linear-gradient(top, #94aa1a, #829612);
+}
+.button:hover {
+    background:#829612;
+}
+#link-back-top {
+    background:url(images/green/arrow-top.png) no-repeat 100% 1px;
+    background-size:14px 10px;
+}
+#title-footer-address {
+    background:url(images/green/corner.png) no-repeat 0 100%;
+    background-size:9px 9px;
+}
+#title-footer-address span {
+    background:#764200;
+}
+#footer-copyright {
+    background:#764200;
+}
