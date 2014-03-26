@@ -93,65 +93,15 @@ $filewelcomeretina = $sf_welcome_intro_image_retina['file'];
 				        </div>
                 </div>
             </div>			
-            <div id="sidebar-homepage-right" class="sidebar-homepage">
-                <?php if ( ($sf_sidebar_title1 <> '' ) || ($sf_sidebar_title2 <> '' ) || ($sf_sidebar_title3 <> '' ) ) :?>
-				<ul id="nav-sidebar" class="clearfix">
-				   <?php if (($sf_sidebar_title1<>'') || ($fileicon1['url'] <> '') || ($sf_sidebar_text1<>'') ) : ?>
-                    <li><?php if ($sf_sidebar_url1 <> ''):?><a href="<?php echo $sf_sidebar_url1;?>" class="clearfix"><?php endif;?>
-                       <?php if ($fileicon1['url'] <> '') : ?>
-					   <figure><img src="<?php echo $fileicon1['url'];?>" alt="<?php echo $sf_sidebar_title1;?>" /></figure>
-						<?php endif;?>
-                        <?php if ($sf_sidebar_title1<>''):?><strong class="title-nav-sidebar"><?php echo $sf_sidebar_title1;?></strong><?php endif;?>
-                        <?php if ($sf_sidebar_text1<>'') :?><?php echo $sf_sidebar_text1;?><?php endif;?>
-                        <?php if ($sf_sidebar_url1 <> ''):?></a><?php endif;?>
-						</li>
-					<?php endif;?>
-                     <?php if (($sf_sidebar_title2<>'') || ($fileicon2['url'] <> '') || ($sf_sidebar_text2<>'') ) : ?>
-                    <li><?php if ($sf_sidebar_url2 <> ''):?><a href="<?php echo $sf_sidebar_url2;?>" class="clearfix"><?php endif;?>
-                       <?php if ($fileicon2['url'] <> '') : ?>
-					   <figure><img src="<?php echo $fileicon2['url'];?>" alt="<?php echo $sf_sidebar_title2;?>" /></figure>
-						<?php endif;?>
-                        <?php if ($sf_sidebar_title2<>''):?><strong class="title-nav-sidebar"><?php echo $sf_sidebar_title2;?></strong><?php endif;?>
-                        <?php if ($sf_sidebar_text2<>'') :?><?php echo $sf_sidebar_text2;?><?php endif;?>
-                        <?php if ($sf_sidebar_url2 <> ''):?></a><?php endif;?>
-						</li>
-					<?php endif;?>
-					 <?php if (($sf_sidebar_title3<>'') || ($fileicon3['url'] <> '') || ($sf_sidebar_text3<>'') ) : ?>
-                    <li><?php if ($sf_sidebar_url3 <> ''):?><a href="<?php echo $sf_sidebar_url3;?>" class="clearfix"><?php endif;?>
-                       <?php if ($fileicon3['url'] <> '') : ?>
-					   <figure><img src="<?php echo $fileicon3['url'];?>" alt="<?php echo $sf_sidebar_title3;?>" /></figure>
-						<?php endif;?>
-                        <?php if ($sf_sidebar_title3<>''):?><strong class="title-nav-sidebar"><?php echo $sf_sidebar_title3;?></strong><?php endif;?>
-                        <?php if ($sf_sidebar_text3<>'') :?><?php echo $sf_sidebar_text3;?><?php endif;?>
-                        <?php if ($sf_sidebar_url3 <> ''):?></a><?php endif;?>
-						</li>
-					<?php endif;?>
-					 <?php if (($sf_sidebar_title4<>'') || ($fileicon4['url'] <> '') || ($sf_sidebar_text4<>'') ) : ?>
-                    <li><?php if ($sf_sidebar_url4 <> ''):?><a href="<?php echo $sf_sidebar_url4;?>" class="clearfix"><?php endif;?>
-                       <?php if ($fileicon4['url'] <> '') : ?>
-					   <figure><img src="<?php echo $fileicon4['url'];?>" alt="<?php echo $sf_sidebar_title4;?>" /></figure>
-						<?php endif;?>
-                        <?php if ($sf_sidebar_title4<>''):?><strong class="title-nav-sidebar"><?php echo $sf_sidebar_title4;?></strong><?php endif;?>
-                        <?php if ($sf_sidebar_text4<>'') :?><?php echo $sf_sidebar_text4;?><?php endif;?>
-                        <?php if ($sf_sidebar_url4 <> ''):?></a><?php endif;?>
-						</li>
-					<?php endif;?>
-					 <?php if (($sf_sidebar_title5<>'') || ($fileicon5['url'] <> '') || ($sf_sidebar_text5<>'') ) : ?>
-                    <li><?php if ($sf_sidebar_url5 <> ''):?><a href="<?php echo $sf_sidebar_url5;?>" class="clearfix"><?php endif;?>
-                       <?php if ($fileicon5['url'] <> '') : ?>
-					   <figure><img src="<?php echo $fileicon5['url'];?>" alt="<?php echo $sf_sidebar_title5;?>" /></figure>
-						<?php endif;?>
-                        <?php if ($sf_sidebar_title5<>''):?><strong class="title-nav-sidebar"><?php echo $sf_sidebar_title5;?></strong><?php endif;?>
-                        <?php if ($sf_sidebar_text5<>'') :?><?php echo $sf_sidebar_text5;?><?php endif;?>
-                        <?php if ($sf_sidebar_url5 <> ''):?></a><?php endif;?>
-						</li>
-					<?php endif;?>
-                </ul>
-				<?php endif;?>
+          
+  <div id="sidebar-homepage-right" class="sidebar-homepage">
+             
                 <?php if ( ! dynamic_sidebar( 'sidebar-homepage-right' ) ) : ?>					
 						
 						<?php endif;?>
-            </div>			
+            </div>	
+
+		
             <article id="intro-principal" class="static-page">
                 <?php if (($sf_welcome_intro_name <> '') || ($sf_welcome_intro_position <> '') ) : ?><h3 id="title-principal"><?php if ($sf_welcome_intro_name <> '') : ?><strong><?php echo $sf_welcome_intro_name;?><?php endif;?> <?php if ($sf_welcome_intro_position <> '') : ?>-<?php endif;?></strong> <?php if ($sf_welcome_intro_position <> '') : ?><?php echo $sf_welcome_intro_position;?><?php endif;?></h3><?php endif;?>
 				<?php if ($filewelcome['url'] <> '') : ?>

@@ -28,12 +28,7 @@
             <a href="#" id="link-back-top">Back to Top</a>
         </div>
 		
-        <div id="slogan-footer">
-           <?php if ($sf_footer_slogan<>'') : ?>
-           <h4><?php echo $sf_footer_slogan;?></h4>
-		   <?php endif;?>
-        </div>
-		
+        		
         <div id="footer-content" class="clearfix">
             <div id="footer-container">
                 <div id="sidebar-footer-left" class="sidebar-footer">

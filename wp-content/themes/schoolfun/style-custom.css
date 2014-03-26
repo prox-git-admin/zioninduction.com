@@ -4,3 +4,25 @@ background:#0000FE;}
 .sidebar-homepage .widget-title, #sidebar .widget-title {background:#0000FE;}
 
 #content-container-home {padding-top:0;}
+
+.btn {
+position:absolute;
+margin-top:10px;
+background-color:#284B7E;
+color:#fff !important;
+padding:8px 10px;
+text-transform: uppercase;
+font-family:'Raleway', sans-serif;
+border-radius:2px;
+text-decoration:none;
+}
+a, a:active, a:visited {color:#fff;}
+.btn:hover,
+.btn:hover a:link
+{border-bottom:4px solid rgba(255, 255, 255, 0.2);
+color:#fff;}
+
+
+.tabs-container article {
+height: 240px;
+font-size:14px;}
