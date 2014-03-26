@@ -54,7 +54,7 @@ $sf_welcome_intro_image_retina = get_option('sf_welcome_intro_image_retina');
 $filewelcomeretina = $sf_welcome_intro_image_retina['file'];
 ?>
  <?php get_template_part('slideshow');?>    
-    <div id="content-container">
+    <div id="content-container-home">
         <div id="content" class="clearfix">
            <?php if ($filebanner['url'] <> '' ) : ?>
 			<div id="banner-homepage">
@@ -81,24 +81,14 @@ $filewelcomeretina = $sf_welcome_intro_image_retina['file'];
                 <div id="sidebar-homepage-left" class="sidebar-homepage">
 				        <div class="widget-wrapper clearfix">
 				        <?php if ( ! dynamic_sidebar( 'sidebar-homepage-left' ) ) : ?>					
-						<aside class="widget-container">
-							<div class="widget-wrapper clearfix">
-							<h3 class="widget-title">Search</h3>
-							<?php get_search_form(); ?>
-							</div>
-						</aside>
+						
 				<?php endif;?>
 				        </div>
                 </div>
                 <div id="sidebar-homepage-middle" class="sidebar-homepage">                    
 				        <div class="widget-wrapper clearfix">
 				        <?php if ( ! dynamic_sidebar( 'sidebar-homepage-middle' ) ) : ?>					
-						<aside class="widget-container">
-							<div class="widget-wrapper clearfix">
-							<h3 class="widget-title">Search</h3>
-							<?php get_search_form(); ?>
-							</div>
-						</aside>
+						
 						<?php endif;?>
 				        </div>
                 </div>
@@ -159,12 +149,7 @@ $filewelcomeretina = $sf_welcome_intro_image_retina['file'];
                 </ul>
 				<?php endif;?>
                 <?php if ( ! dynamic_sidebar( 'sidebar-homepage-right' ) ) : ?>					
-						<aside class="widget-container">
-							<div class="widget-wrapper clearfix">
-							<h3 class="widget-title">Search</h3>
-							<?php get_search_form(); ?>
-							</div>
-						</aside>
+						
 						<?php endif;?>
             </div>			
             <article id="intro-principal" class="static-page">

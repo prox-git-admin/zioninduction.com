@@ -38,22 +38,12 @@
             <div id="footer-container">
                 <div id="sidebar-footer-left" class="sidebar-footer">
                      <?php if ( ! dynamic_sidebar( 'footer-left' ) ) : ?>					
-						<aside class="widget-container">
-							<div class="widget-wrapper clearfix">
-							<h3 class="widget-title">Search</h3>
-							<?php get_search_form(); ?>
-							</div>
-						</aside>
+						
 						<?php endif;?>
                 </div>
                 <div id="sidebar-footer-middle" class="sidebar-footer">
                      <?php if ( ! dynamic_sidebar( 'footer-middle' ) ) : ?>					
-						<aside class="widget-container">
-							<div class="widget-wrapper clearfix">
-							<h3 class="widget-title">Search</h3>
-							<?php get_search_form(); ?>
-							</div>
-						</aside>
+						
 						<?php endif;?>
                 </div>
 				<?php if (($sf_sub_footer_text <> '') || ($sf_sub_footer_title <> '') || ($sf_facebook<>'') || ($sf_twitter<>'') || ($sf_linkedin<>'') || ($sf_flickr<>'') || ($sf_gplus<>'') || ($sf_pinterest<>'') || ($sf_istagram<>'') ): ?>
